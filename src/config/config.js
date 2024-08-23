@@ -28,7 +28,7 @@ module.exports = {
     
     distubeOptions: {
         emitAddListWhenCreatingQueue: true,
-        emitAddSongWhenCreatingQueue: true,
+        emitAddSongWhenCreatingQueue: false,
         emitNewSongOnly: true,
         joinNewVoiceChannel: true,
         nsfw: true,
