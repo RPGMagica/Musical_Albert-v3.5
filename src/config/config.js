@@ -5,7 +5,7 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey:'AIzaSyCrZ_w3ij2HxISRX8W0M2KR_oCv_UdXjyw',
+    youtubeApiKey:'AIzaSyDdEi4IJGoumBgGNy92zuy1FEoU7OBvpnI',
     mongoUri: 'mongodb+srv://RPGMagica:Password@almusic.gz4gznh.mongodb.net/?retryWrites=true&w=majority&appName=AlMusic',
     spotify: {
         clientId: process.env.SPOTIFY_CLIENT_ID,
