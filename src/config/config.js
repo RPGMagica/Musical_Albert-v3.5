@@ -22,7 +22,7 @@ module.exports = {
         secure: true,
         session: false,
         storeId: "0",
-        value: "1WEHRrYUBttCn9ih/ACbOwdBzceu9lwe-x",
+        value: "i_oe_AAXuBUf21HP/A_fNmZM-Zpg9CYzEN",
         id: 1
     },
     
